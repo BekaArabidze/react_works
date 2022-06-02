@@ -1,0 +1,6 @@
+$red:red;
+$blue:red;
+
+@mixin buttton_styles($bgColor:$bgColor) {
+    background-color: $bgColor;
+}
